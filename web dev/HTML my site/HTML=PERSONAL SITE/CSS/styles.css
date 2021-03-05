@@ -1,0 +1,25 @@
+body {
+  background-color: #fff9b0;
+}
+
+hr {
+  background-color:none;
+  border:7px;
+  border-style: none none dotted;
+  width:7%;
+  border-color:grey;
+}
+img { border-radius: 50%; }
+
+p { font-family: Geneva;
+font-size: 15px }
+
+.test1{
+  border: 1px solid black;
+}
+.test2{
+  border: 3px solid black;
+}
+img:hover {
+  transform: scaleX(-1);
+}

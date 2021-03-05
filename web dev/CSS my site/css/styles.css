@@ -1,0 +1,34 @@
+div {
+  background-color: #bbf1fa;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 562,5%;
+  width: 10% margin: 0 auto;
+  margin-bottom: 0;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+.one {
+  margin-top: 0px
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.first-cloud {
+  position: relative;
+  margin-left: 400px;
+}
+.andreas-foto{
+border-radius: 50%;}
